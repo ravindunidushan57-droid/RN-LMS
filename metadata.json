@@ -1,0 +1,6 @@
+{
+  "name": "RN LMS",
+  "description": "Institute Student Management System covering Attendance, Fees, Tute Issues, and Exam Results with Admin and Student Portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
